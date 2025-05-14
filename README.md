@@ -12,7 +12,6 @@
 - 📁 Εξαγωγή σε **CSV** και **PDF**
 - 📅 Φιλτράρισμα κατά ημερομηνία
 - 📈 Στατιστικά με **Chart.js**
-- 🇪🇺 Υποστήριξη ευρώ (€) και μορφή ημερομηνίας **DD-MM-YYYY**
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### 1. Κλωνοποίησε το Repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini-erp.git
+git clone https://github.com/giorgioSim/mini-erp.git
 ```
 
 ### 2. Ρύθμισε τη βάση δεδομένων:
