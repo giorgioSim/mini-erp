@@ -52,7 +52,7 @@ $pass = '';
 ## 🔐 Login Test Χρήστη
 
 ```text
-Email: demo@example.com
+Email: demo@erp.com
 Κωδικός: 123456
 ```
 
